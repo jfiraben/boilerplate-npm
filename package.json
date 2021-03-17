@@ -3,5 +3,6 @@
   "author": "Jordan Firaben",
   "description": "A project that does something awesome",
   "keywords": ["freecodecamp", "api", "api testing", "jfiraben"],
-  "license": "MIT"
+  "license": "MIT",
+  "version": "1.0"
 }
