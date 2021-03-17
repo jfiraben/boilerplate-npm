@@ -2,5 +2,6 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Jordan Firaben",
   "description": "A project that does something awesome",
-  "keywords": ["freecodecamp", "api", "api testing", "jfiraben"]
+  "keywords": ["freecodecamp", "api", "api testing", "jfiraben"],
+  "license": "MIT"
 }
